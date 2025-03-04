@@ -2,9 +2,9 @@
 Title: Chapter 4 Exerise 1 - Minimum Maximum
 File Name: minmax.cpp
 Programmer: Nicholas Woolston
-Date: 23/02/2024 (DD/MM/YYYY)
-Requirements: Write a program that asks for: a loan amount, the monthly interest rate, and the number of payments made to pay off the loan.
-From there, display those values along with: the monthly payment, amount paid back, and interest paid.
+Date: 03/03/2024 (DD/MM/YYYY)
+Requirements: Write a program that asks for two numbers. Compare the two and output which number is the larger one, and which number
+is the smaller one.
 */
 
 #include <iostream>
